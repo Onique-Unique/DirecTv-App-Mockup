@@ -1,0 +1,53 @@
+.top-notch {
+    margin: 0 auto;
+    background-color: rgb(24, 23, 23);
+    height: 2rem;
+    width: 10rem;
+    border-radius: 0 0 10px 10px;
+    margin-left: 12.5%;
+    padding-bottom: 5%;
+
+    .inside-top-notch {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 7%;
+
+        .top-notch__rectangle {
+            background-color: rgb(41, 41, 41);
+            height: .3rem;
+            width: 3rem;
+            border-radius: 2px;
+        }
+
+        .top-notch__circle {
+            background-color: rgb(54, 54, 54);
+            height: .3rem;
+            width: .32rem;
+            border-radius: 100%;
+            margin-left: 1%;
+        }
+    }
+}
+
+input[type="search"] {
+    font-size: 1rem;
+}
+
+.input-search {
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 3px;
+}
+
+#search {
+    border-radius: 3px;
+    border: none;
+    height: 2rem;
+    outline: none;
+}
+
+.search-icon {
+    padding: 0 1%;
+}
