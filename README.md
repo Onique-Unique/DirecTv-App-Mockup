@@ -14,6 +14,6 @@ Live-Link:
 Live Video Player, Search Bar, Horizontal Media scrolling
 
 <div margin="0 auto">
-<img width="400" alt="Mockup-1" src="https://user-images.githubusercontent.com/87822768/146785316-5c83837c-2571-448b-9b59-fcf60db64890.png">
-<img width="400" alt="Mockup-1" src="https://user-images.githubusercontent.com/87822768/146785313-248d1c02-5620-4344-9935-e59709464172.gif">
+<img width="300" alt="Mockup-1" src="https://user-images.githubusercontent.com/87822768/146785316-5c83837c-2571-448b-9b59-fcf60db64890.png">
+<img width="300" alt="Mockup-1" src="https://user-images.githubusercontent.com/87822768/146785313-248d1c02-5620-4344-9935-e59709464172.gif">
 </div>
