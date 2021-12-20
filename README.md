@@ -10,4 +10,7 @@ Theres so many ways HTML and CSS can be implemented in todays technology and cre
 
 Live-Link:
 
+## Current Features:
+Live Video Player, Search Bar, Horizontal Media scrolling
+
 <img width="791" alt="Mockup-1" src="https://user-images.githubusercontent.com/87822768/146782236-93928537-5798-4030-b26e-65067d355af2.PNG">
