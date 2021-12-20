@@ -13,4 +13,7 @@ Live-Link:
 ## Current Features:
 Live Video Player, Search Bar, Horizontal Media scrolling
 
-<img width="791" alt="Mockup-1" src="https://user-images.githubusercontent.com/87822768/146782236-93928537-5798-4030-b26e-65067d355af2.PNG">
+<div margin="0 auto">
+<img width="400" alt="Mockup-1" src="https://user-images.githubusercontent.com/87822768/146785316-5c83837c-2571-448b-9b59-fcf60db64890.png">
+<img width="400" alt="Mockup-1" src="https://user-images.githubusercontent.com/87822768/146785313-248d1c02-5620-4344-9935-e59709464172.gif">
+</div>
