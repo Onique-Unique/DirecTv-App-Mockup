@@ -1,13 +1,19 @@
 .device-frame {
-    margin: 0 auto;
+    margin: 35% auto;
     background-color: rgb(168, 168, 168);
-    height: 50.5rem;
+    max-height: 50.5rem;
     width: 25.5rem;
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    transform: translate(0, 20%);
     border-radius: 20px;
 }
+
+@media(max-width: 767px) {
+    .device-frame {
+        margin: 90% auto;
+    }
+}
+
 
